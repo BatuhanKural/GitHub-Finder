@@ -16,6 +16,10 @@ A React-based web application that enables users to search for GitHub profiles a
 - Fetch API
 - Tailwind CSS
 
+## 🚀 Demo
+
+[Live Demo](https://github-finder-batuhankural.vercel.app/)  
+
 ## 📦 Installation
 
 ```bash
